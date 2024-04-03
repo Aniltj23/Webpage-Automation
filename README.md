@@ -1,5 +1,5 @@
 # Webpage-Automation
-Automating the registration page https://login.yahoo.com/account/create with Selenium WebDriver using Python.
+Automating the registration page https://login.yahoo.com/account/create using Selenium WebDriver with Python.
 
 Tool: Selenium WebDriver
 
